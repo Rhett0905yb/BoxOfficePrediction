@@ -2,14 +2,15 @@
 
 Here Group 2 shows all code and media for COMP6235: Foundations of Data Science/University of Southampton. 
 
-In <code>sourceCode</code> directory, it contains <code>DataCleasing</code> and <code>web</code> two folders. 
+In <code>sourceCode</code> directory, it contains <code>DataCleansing</code> and <code>web</code> two folders. 
 
-<h2>DataCleasing</h2>
+<h2>DataCleansing</h2>
 
-This folder include all C++ codes used for data cleasing. There are more than 3,200 rows code in all c++ files. Because the raw data set is about 3 GB, so each <code>match</code> file need run more than 10 hours to get final result(It depends on different machine's performance). In this folder, 100% codes were writen by Yibo YU. 
+This folder include all C++ code used for data cleansing. There are more than 3,200 rows code in all c++ files. Because the raw data set is about 3 GB, so each <code>match</code> file need run more than 10 hours to get final result (It depends on different machine's performance). In this folder, 100% code was written by Yibo YU. 
 
 <h2>web</h2>
 
-This folder include all codes how we implement the final web appication. We use JavaScript, PHP, and mongoDB to build this web application. Most of codes in this folder were writen by Natig Vahabov.
+This folder includes all codes how we implement the final web application. We use JavaScript, PHP, and mongoDB to build this web application. Most of code in this folder was written by Natig Vahabov.
+
 
 
