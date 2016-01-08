@@ -10,4 +10,6 @@ This folder include all C++ codes used for data cleasing. There are more than 3,
 
 <h2>web</h2>
 
-aaa
+This folder include all codes how we implement the final web appication. We use JavaScript, PHP, and mongoDB to build this web application. Most of codes in this folder were writen by Natig Vahabov.
+
+
