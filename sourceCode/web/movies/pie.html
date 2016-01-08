@@ -1,0 +1,39 @@
+<html>
+ <head>
+ 	<script src="jquery-2.1.4.min.js"></script>
+    <script src="Chart.js"></script>
+ </head>
+ 
+ <body>
+     <canvas id="mycanvas" width=256 height=256>
+     <script>
+       $(document).ready(function(){
+
+       	var ctx = $("#mycanvas").get(0).getContext("2d");
+
+       	var data = [
+             {
+                    value:270,
+                    color:"#647756",
+                    label:"Corn Flower Blue"
+             },
+             {
+
+             	    value:50,
+                    color:"#421124",
+                    label:"#324423"
+             },
+             {
+
+             	    value:40,
+                    color:"#123456",
+                    label:"asdad"
+             }
+
+       	];
+console.log(data);
+       	var piechart = new Chart(ctx).Pie(data);
+       })
+     </script> 
+ </body>
+</html>
