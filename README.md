@@ -6,4 +6,8 @@ In <code>sourceCode</code> directory, it contains <code>DataCleasing</code> and 
 
 <h2>DataCleasing</h2>
 
-It is
+This folder include all C++ codes used for data cleasing. There are more than 3,200 rows code in all c++ files. Because the raw data set is about 3 GB, so each <code>match</code> file need run more than 10 hours to get final result(It depends on different machine's performance). In this folder, 100% codes were writen by Yibo YU. 
+
+<h2>web</h2>
+
+aaa
